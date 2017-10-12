@@ -15,6 +15,23 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+        //build the size of the window object
+        let rect: CGRect = UIScreen.main.bounds
+        
+        //define the size of the window
+        self.window = UIWindow(frame: rect)
+        //initialize the viewController
+        let vc = TestViewController()
+        
+        //let the window to load vc
+        self.window?.rootViewController = vc
+        
+        //set background color
+        self.window?.backgroundColor = UIColor.white
+        
+        self.window?.makeKeyAndVisible()
+        
+        
         // Override point for customization after application launch.
         return true
     }

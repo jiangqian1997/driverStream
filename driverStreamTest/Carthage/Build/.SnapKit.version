@@ -11,14 +11,14 @@
   "tvOS" : [
     {
       "name" : "SnapKit",
-      "hash" : "14bd84d2e72bbdf3eb65b988a72ff77553f027706e28734782dbe92ac95a25a5"
+      "hash" : "7013f1b8006bb638598dc62dc8c2d070589a618eb9746c55605c76600b37b323"
     }
   ],
   "commitish" : "4.0.0",
   "iOS" : [
     {
       "name" : "SnapKit",
-      "hash" : "13b298b816c69776f3eaa5c831b526de4e10f80e85eaad86e9fb36d78e2ac517"
+      "hash" : "8a2165e7b5a952f89ec0181abcf601ea5824ba76e22a65223858677fa5203874"
     }
   ]
 }

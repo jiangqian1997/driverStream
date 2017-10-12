@@ -10,9 +10,10 @@
 		07D68EE6DF8F2908BC8EC536 /* Pods_driverStreamTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 461AF633E926E9F4942E9450 /* Pods_driverStreamTest.framework */; };
 		C1C930DD1F8F6CD9004479AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C930DC1F8F6CD9004479AB /* AppDelegate.swift */; };
 		C1C930E41F8F6CD9004479AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1C930E31F8F6CD9004479AB /* Assets.xcassets */; };
-		C1C930E71F8F6CD9004479AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C1C930E51F8F6CD9004479AB /* LaunchScreen.storyboard */; };
 		C1C930F21F8F6CD9004479AB /* driverStreamTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C930F11F8F6CD9004479AB /* driverStreamTestTests.swift */; };
 		C1C930FD1F8F6CD9004479AB /* driverStreamTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C930FC1F8F6CD9004479AB /* driverStreamTestUITests.swift */; };
+		C1F555851F8F959400485F93 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1F555841F8F959400485F93 /* TestViewController.swift */; };
+		C1F555861F8F963600485F93 /* SnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C1F555871F8F963600485F93 /* SnapKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,10 +36,10 @@
 /* Begin PBXFileReference section */
 		461AF633E926E9F4942E9450 /* Pods_driverStreamTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_driverStreamTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		574D3C9ECE572FF65C09C4E3 /* Pods-driverStreamTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-driverStreamTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-driverStreamTest/Pods-driverStreamTest.release.xcconfig"; sourceTree = "<group>"; };
+		C1A0E8E41F8FAAB200D5B74B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C1C930D91F8F6CD9004479AB /* driverStreamTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = driverStreamTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1C930DC1F8F6CD9004479AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C1C930E31F8F6CD9004479AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C1C930E61F8F6CD9004479AB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C1C930E81F8F6CD9004479AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C1C930ED1F8F6CD9004479AB /* driverStreamTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = driverStreamTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1C930F11F8F6CD9004479AB /* driverStreamTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = driverStreamTestTests.swift; sourceTree = "<group>"; };
@@ -46,6 +47,8 @@
 		C1C930F81F8F6CD9004479AB /* driverStreamTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = driverStreamTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1C930FC1F8F6CD9004479AB /* driverStreamTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = driverStreamTestUITests.swift; sourceTree = "<group>"; };
 		C1C930FE1F8F6CD9004479AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C1F555841F8F959400485F93 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		C1F555871F8F963600485F93 /* SnapKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = SnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3CF890996458D1299CF8714 /* Pods-driverStreamTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-driverStreamTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-driverStreamTest/Pods-driverStreamTest.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,6 +57,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1F555861F8F963600485F93 /* SnapKit.framework in Frameworks */,
 				07D68EE6DF8F2908BC8EC536 /* Pods_driverStreamTest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -110,9 +114,10 @@
 			isa = PBXGroup;
 			children = (
 				C1C930DC1F8F6CD9004479AB /* AppDelegate.swift */,
+				C1F555841F8F959400485F93 /* TestViewController.swift */,
 				C1C930E31F8F6CD9004479AB /* Assets.xcassets */,
-				C1C930E51F8F6CD9004479AB /* LaunchScreen.storyboard */,
 				C1C930E81F8F6CD9004479AB /* Info.plist */,
+				C1A0E8E31F8FAAB200D5B74B /* LaunchScreen.storyboard */,
 			);
 			path = driverStreamTest;
 			sourceTree = "<group>";
@@ -138,6 +143,7 @@
 		C7FEE5337D0D5E7788156B75 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				C1F555871F8F963600485F93 /* SnapKit.framework */,
 				461AF633E926E9F4942E9450 /* Pods_driverStreamTest.framework */,
 			);
 			name = Frameworks;
@@ -253,7 +259,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C1C930E71F8F6CD9004479AB /* LaunchScreen.storyboard in Resources */,
 				C1C930E41F8F6CD9004479AB /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -333,6 +338,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1F555851F8F959400485F93 /* TestViewController.swift in Sources */,
 				C1C930DD1F8F6CD9004479AB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -369,10 +375,10 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		C1C930E51F8F6CD9004479AB /* LaunchScreen.storyboard */ = {
+		C1A0E8E31F8FAAB200D5B74B /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C1C930E61F8F6CD9004479AB /* Base */,
+				C1A0E8E41F8FAAB200D5B74B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";

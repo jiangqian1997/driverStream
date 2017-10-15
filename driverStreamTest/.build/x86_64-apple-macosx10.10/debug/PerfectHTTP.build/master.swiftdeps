@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "6a0f857747e473741ab497d965b7739c"
+build_time: [1507863917, 210522000]
+inputs:
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPFilter.swift": [1507863864, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPHeaders.swift": [1507863864, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPMethod.swift": [1507863864, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPRequest.swift": [1507863864, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPResponse.swift": [1507863864, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeReader.swift": [1507863864, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeType.swift": [1507863864, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/Routing.swift": [1507863864, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/StaticFileHandler.swift": [1507863864, 0]

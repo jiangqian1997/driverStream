@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/x86_64-apple-macosx10.10/debug/MySQL.build/master.swiftdeps"
+  },
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-MySQL.git-4976130768219902098/Sources/MySQL/MySQL.swift": {
+    "dependencies": "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/x86_64-apple-macosx10.10/debug/MySQL.build/MySQL.d",
+    "object": "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/x86_64-apple-macosx10.10/debug/MySQL.build/MySQL.swift.o",
+    "swiftmodule": "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/x86_64-apple-macosx10.10/debug/MySQL.build/MySQL~partial.swiftmodule",
+    "swift-dependencies": "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/x86_64-apple-macosx10.10/debug/MySQL.build/MySQL.swiftdeps"
+  }
+}

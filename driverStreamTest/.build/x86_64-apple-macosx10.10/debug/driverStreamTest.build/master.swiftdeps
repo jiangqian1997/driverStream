@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "35a5d6358ff0694ff59a7b8059a4bc3d"
+build_time: [1507863930, 594673000]
+inputs:
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/Sources/main.swift": [1507829623, 0]

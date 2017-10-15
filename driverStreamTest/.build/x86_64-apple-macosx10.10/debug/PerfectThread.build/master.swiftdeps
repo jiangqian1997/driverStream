@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "93a82fc37b87a75c6bc7dc1b32fc100a"
+build_time: [1507863902, 844494000]
+inputs:
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/Promise.swift": [1507863864, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/ThreadQueue.swift": [1507863864, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/Threading.swift": [1507863864, 0]

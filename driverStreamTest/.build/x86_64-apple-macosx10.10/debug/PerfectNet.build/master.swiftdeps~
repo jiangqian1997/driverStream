@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "828392f728eea4787fad8b475d259ea2"
+build_time: [1507863460, 893342000]
+inputs:
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/Net.swift": [1507858797, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetEvent.swift": [1507858797, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetNamedPipe.swift": [1507858797, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCP.swift": [1507858797, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCPSSL.swift": [1507858992, 0]

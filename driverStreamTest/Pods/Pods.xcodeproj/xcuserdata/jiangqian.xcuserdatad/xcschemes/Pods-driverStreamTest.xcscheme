@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "524DD39DD0B501A2127AA6760074AC9E"
+               BlueprintIdentifier = "EE7AF7693ED74A1FFAAD7064366A7A81"
                BuildableName = "Pods_driverStreamTest.framework"
                BlueprintName = "Pods-driverStreamTest"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -47,7 +47,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "524DD39DD0B501A2127AA6760074AC9E"
+            BlueprintIdentifier = "EE7AF7693ED74A1FFAAD7064366A7A81"
             BuildableName = "Pods_driverStreamTest.framework"
             BlueprintName = "Pods-driverStreamTest"
             ReferencedContainer = "container:Pods.xcodeproj">

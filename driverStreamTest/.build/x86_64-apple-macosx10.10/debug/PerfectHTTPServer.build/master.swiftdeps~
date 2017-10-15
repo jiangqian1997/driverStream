@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "c63c83145865680cf913d9607dfc7d35"
+build_time: [1507863469, 216889000]
+inputs:
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HPACK.swift": [1507858797, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11Request.swift": [1507858797, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11Response.swift": [1507858797, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2.swift": [1507858797, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServer.swift": [1507858797, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerEx.swift": [1507858797, 0]
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [1507861453, 0]

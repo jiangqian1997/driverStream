@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "5989adcf4b963b2556d116bab7c8f774"
+build_time: [1507863451, 178776000]
+inputs:
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/checkouts/Perfect-MySQL.git-4976130768219902098/Sources/MySQL/MySQL.swift": [1507858803, 0]

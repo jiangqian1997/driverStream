@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/x86_64-apple-macosx10.10/debug/driverStreamTest.build/master.swiftdeps"
+  },
+  "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/Sources/main.swift": {
+    "dependencies": "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/x86_64-apple-macosx10.10/debug/driverStreamTest.build/main.d",
+    "object": "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/x86_64-apple-macosx10.10/debug/driverStreamTest.build/main.swift.o",
+    "swiftmodule": "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/x86_64-apple-macosx10.10/debug/driverStreamTest.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/jiangqian/Documents/Project/driverStream/driverStreamTest/.build/x86_64-apple-macosx10.10/debug/driverStreamTest.build/main.swiftdeps"
+  }
+}

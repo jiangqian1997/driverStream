@@ -7,6 +7,10 @@
 //
 
 import UIKit
+//import Alamofire
+//import SwiftyJSON
+
+
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -30,6 +34,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         self.window?.backgroundColor = UIColor.white
         
         self.window?.makeKeyAndVisible()
+
         
         
         // Override point for customization after application launch.
